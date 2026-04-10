@@ -50,7 +50,9 @@ notebooks/
 images/
 docs/
 README.md
+```
 
+---
 ## Integrantes
 - Hellen Karla Costa Campos Moraes de Melo
 - José Henrique Bessi Wolkers
