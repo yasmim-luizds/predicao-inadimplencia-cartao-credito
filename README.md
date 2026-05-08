@@ -159,7 +159,9 @@ Construção de modelos preditivos
 ## Status do Projeto
 
 ✅ Entrega 1 — Concluída
+
 ✅ Entrega 2 — Protótipo e análise preliminar concluídos
+
 🔄 Entrega 3 — Em desenvolvimento
 
 ---
