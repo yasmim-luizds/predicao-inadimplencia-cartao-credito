@@ -2,6 +2,16 @@
 
 Projeto desenvolvido para a disciplina **Projeto Integrador III (FAESA)**.
 
+**Vídeo de apresentação do protótipo:** https://youtu.be/b8hkBnrUWQ0?si=e8OqNrtsZexq5Dpc
+
+---
+
+## Integrantes
+- Hellen Karla Costa Campos Moraes de Melo
+- José Henrique Bessi Wolkers
+- Kaio Soares Pacheco
+- Yasmim Luiz dos Santos
+  
 ---
 
 ## Objetivo
@@ -52,10 +62,6 @@ docs/
 README.md
 ```
 
----
-## Integrantes
-- Hellen Karla Costa Campos Moraes de Melo
-- José Henrique Bessi Wolkers
-- Kaio Soares Pacheco
-- Yasmim Luiz dos Santos
+
+
 
