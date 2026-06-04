@@ -1,6 +1,3 @@
-Claro — segue uma versão atualizada do `README.md`, já considerando a **Entrega 3 / MVP final**, modelos refinados e aprendizado não supervisionado.
-
-````markdown
 # Predição de Inadimplência de Clientes de Cartão de Crédito
 
 Projeto desenvolvido para a disciplina **Projeto Integrador III** do curso de **Sistemas de Informação - FAESA**.
