@@ -20,6 +20,9 @@ Assista à apresentação do projeto no YouTube:
 
 **https://youtu.be/b8hkBnrUWQ0?si=e8OqNrtsZexq5Dpc**
 
+Assista à apresentação do MVP no YouTube:
+**https://youtu.be/Fx9gI8AWxsE?si=w8hCiqEZvMN8iUWm**
+
 ---
 
 ## Integrantes
